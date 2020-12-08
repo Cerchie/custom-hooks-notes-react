@@ -1,0 +1,16 @@
+.clicker-light {
+    background-color: aliceblue;
+}
+
+.clicker-dark {
+    background-color: darkslateblue;
+}
+
+.clicker-dark button {
+    background-color: lightblue;
+}
+
+.clicker-light button {
+    background-color: darkblue;
+    color: white;
+}
